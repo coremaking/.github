@@ -1,1 +1,1 @@
-# coremaking 
+# coremaking organization
