@@ -42,7 +42,7 @@
 
 </div>
 
-**coremaking** is a private, invite-only collective owned by [**riri**](https://github.com/iviu).
+**coremaking** is a private, invite-only organization owned by [**riri**](https://github.com/iviu).
 
 we don't have a mission statement. we don't have shareholders. we build whatever catches our attention — half-finished experiments, weird tools, questionable side projects, and the occasional thing that actually works.
 
