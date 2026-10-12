@@ -317,16 +317,6 @@ Come say hi in the [**Discord**](https://discord.gg/nsXv6s6Xyb) — you might ca
 
 <br><br>
 
-### &nbsp; Watch the Snake Eat Our Commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coremaking/coremaking/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coremaking/coremaking/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/coremaking/coremaking/output/snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
