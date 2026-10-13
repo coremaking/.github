@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="240px" src="coremaking.jpeg" alt="coremaking logo" />
+<img width="240px" src="coremaking.jpg" alt="coremaking logo" />
 
 <br>
 
